@@ -63,5 +63,5 @@ A scatter plot segmenting products into strategic categories.
 
 **<h3>Technical Architecture & Tools</h3>**
 
-1. **Backend (PostgreSQL):** All complex business logic, cohort calculations, and segmentation were performed using advanced SQL within database VIEWs. This ensures a robust and scalable "Single Source of Truth".
-2. **Frontend (Tableau):** The precalculated, analytics ready data was exported to a .csv and connected to Tableau for visualization. This separation of concerns ensures high performance in the dashboard.
+1. **Backend (PostgreSQL):** All complex business logic, cohort calculations, and segmentation were performed using advanced SQL within database [VIEWs](https://github.com/wisnuyulianto/advanced-ecommerce-analysis--from-raw-data-to-strategic-insights/tree/main/sql_scripts). This ensures a robust and scalable "Single Source of Truth".
+2. **Frontend (Tableau):** The precalculated, analytics ready data was exported to a [.csv](https://github.com/wisnuyulianto/advanced-ecommerce-analysis--from-raw-data-to-strategic-insights/blob/main/data/clean_online_retail.csv) and connected to Tableau for visualization. This separation of concerns ensures high performance in the dashboard.
