@@ -2,7 +2,7 @@
 **<h3>Executive Summary</h3>**
 <div align="justify">This project moves beyond standard descriptive reporting to answer complex, strategic business questions using advanced data modeling in SQL and interactive visualization in Tableau. Using a 2 year transactional e-commerce dataset (from 2009-12-01 to 2011-12-09), this analysis provides a multi faceted view of business health, focusing on customer retention, customer value segmentation, and strategic product portfolio management.
 
-The core of this project lies in the sophisticated SQL transformations performed in PostgreSQL to create powerful analytical models like Cohort Analysis, RFM Segmentation, and the BCG Matrix. The final result is a comprehensive executive dashboard designed to drive strategic decision-making.
+The core of this project lies in the sophisticated SQL transformations performed in PostgreSQL to create powerful analytical models like Cohort Analysis, RFM Segmentation, and the BCG Matrix. The final result is a comprehensive executive dashboard designed to drive strategic decision making.
 
 <p></p>
 
