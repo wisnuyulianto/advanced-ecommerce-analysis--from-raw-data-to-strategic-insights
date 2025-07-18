@@ -64,7 +64,7 @@ FROM rfm_scores;
 
 *Insight:* RFM segmentation shows a clear divide between a highly valuable segment of **"Champions"** and an equally large group of **"Hibernating"** customers at high risk of being lost. This presents a dual strategic opportunity: nurture the best customers with VIP programs while creating targeted win back campaigns to reengage the dormant segment.
 
-**3. Product Portfolio Analysis (BCG Matrix)**
+**3. Product Portfolio Analysis (BCG Matrix) | The Product Portfolio is Unbalanced**
 
 To guide product strategy, a BCG Matrix was created to classify products based on their sales growth and relative market share. This framework helps management decide where to invest, what to maintain, and which products to potentially divest.
 
